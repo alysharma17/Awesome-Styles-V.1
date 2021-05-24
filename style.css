@@ -1,0 +1,469 @@
+.fantasy-blue {
+    font-family: fantasy;
+    color:blue;
+}
+
+.fantasy-pink {
+    font-family: fantasy;
+    color:rgb(189, 54, 216);
+}
+
+.fantasy-green {
+    font-family: fantasy;
+    color:rgb(0, 168, 0);
+}
+
+.fantasy-red {
+    font-family: fantasy;
+    color:rgb(170, 0, 0);
+}
+
+.fantasy-orange {
+    font-family: fantasy;
+    color:rgb(255, 136, 0);
+}
+
+.fantasy-purple {
+    font-family: fantasy;
+    color:rgb(119, 0, 255);
+}
+
+.fantasy-yellow {
+    font-family: fantasy;
+    color:rgb(209, 195, 0);
+}
+
+
+
+
+
+
+.Pattaya-blue {
+    font-family: Pattaya;
+    color:blue;
+}
+
+.Pattaya-pink {
+    font-family: Pattaya;
+    color:rgb(189, 54, 216);
+}
+
+.Pattaya-green {
+    font-family: Pattaya;
+    color:rgb(0, 168, 0);
+}
+
+.Pattaya-red {
+    font-family: Pattaya;
+    color:rgb(170, 0, 0);
+}
+
+.Pattaya-orange {
+    font-family: Pattaya;
+    color:rgb(255, 136, 0);
+}
+
+.Pattaya-purple {
+    font-family: Pattaya;
+    color:rgb(119, 0, 255);
+}
+
+.Pattaya-yellow {
+    font-family: Pattaya;
+    color:rgb(209, 195, 0);
+}
+
+
+
+
+
+.KoHo-blue {
+    font-family: KoHo;
+    color:blue;
+}
+
+.KoHo-pink {
+    font-family: KoHo;
+    color:rgb(189, 54, 216);
+}
+
+.KoHo-green {
+    font-family: KoHo;
+    color:rgb(0, 168, 0);
+}
+
+.KoHo-red {
+    font-family: KoHo;
+    color:rgb(170, 0, 0);
+}
+
+.KoHo-orange {
+    font-family: KoHo;
+    color:rgb(255, 136, 0);
+}
+
+.KoHo-purple {
+    font-family: KoHo;
+    color:rgb(119, 0, 255);
+}
+
+.KoHo-yellow {
+    font-family: KoHo;
+    color:rgb(209, 195, 0);
+}
+
+
+
+.Monospace-blue {
+    font-family:monospace;
+    color:blue;
+}
+
+.Monospace-pink {
+    font-family: monospace;
+    color:rgb(189, 54, 216);
+}
+
+.Monospace-green {
+    font-family:monospace;
+    color:rgb(0, 168, 0);
+}
+
+.Monospace-red {
+    font-family: monospace;
+    color:rgb(170, 0, 0);
+}
+
+.Monospace-orange {
+    font-family: monospace;
+    color:rgb(255, 136, 0);
+}
+
+.Monospace-purple {
+    font-family: monospace;
+    color:rgb(119, 0, 255);
+}
+
+.Monospace-yellow {
+    font-family: monospace;
+    color:rgb(209, 195, 0);
+}
+
+
+
+
+
+.Verdana-blue {
+    font-family: Verdana;
+    color:blue;
+}
+
+.Verdana-pink {
+    font-family: Verdana;
+    color:rgb(189, 54, 216);
+}
+
+.Verdana-green {
+    font-family: Verdana;
+    color:rgb(0, 168, 0);
+}
+
+.Verdana-red {
+    font-family: Verdana;
+    color:rgb(170, 0, 0);
+}
+
+.Verdana-orange {
+    font-family: Verdana;
+    color:rgb(255, 136, 0);
+}
+
+.Verdana-purple {
+    font-family: Verdana;
+    color:rgb(119, 0, 255);
+}
+
+.Verdana-yellow {
+    font-family: Verdana;
+    color:rgb(209, 195, 0);
+}
+
+.text-hilighter {
+    background-color:rgb(255, 238, 0);
+    
+}
+
+
+.bold-pink {
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    background-color:rgb(212, 0, 255);
+    color:whitesmoke;
+    font-size:17px;
+    border-color: rgb(212, 0, 255);
+}
+
+.bold-pink:hover {
+    background-color: rgb(159, 38, 163);
+}
+
+
+.sky-blue {
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    background-color:skyblue;
+    color:rgb(102, 102, 102);
+    font-size:17px;
+    border-color:( skyblue);
+}
+
+.sky-blue:hover {
+    background-color: rgb(53, 154, 194);
+    color:white;
+}
+
+
+.midnight-blue{
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    background-color:midnightblue;
+    color:whitesmoke;
+    font-size:17px;
+    border-color: midnightblue;
+}
+
+.midnight-blue:hover {
+    background-color: rgb(0, 0, 70);
+}
+
+
+
+
+.fall-orange{
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    background-color:orange;
+    color:whitesmoke;
+    font-size:17px;
+    border-color: orange
+}
+
+.fall-orange:hover {
+    background-color: rgb(192, 127, 5);
+}
+
+
+
+
+
+.spring-yellow {
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    background-color:rgb(221, 221, 81);
+    color:whitesmoke;
+    font-size:17px;
+    border-color: rgb(221, 221, 81);
+}
+
+.spring-yellow:hover {
+    background-color: rgb(206, 192, 4);
+}
+
+
+.aqua-green {
+    background-color:rgb(53, 206, 155);
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    color:whitesmoke;
+    font-size:17px;
+    border-color: rgb(53, 206, 155);
+
+}
+
+.aqua-green:hover {
+    background-color: rgb(5, 180, 122);
+}
+
+
+
+.violet-purple {
+    background-color:rgb(94, 0, 218);
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    color:whitesmoke;
+    font-size:17px;
+    border-color: rgb(94, 0, 218);
+
+}
+
+.violet-purple:hover {
+    background-color: rgb(66, 9, 141);
+}
+
+
+
+.rose-red {
+    background-color:rgb(192, 0, 0);
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    color:whitesmoke;
+    font-size:17px;
+    border-color: rgb(192, 0, 0);
+
+}
+
+.rose-red:hover {
+    background-color: rgb(129, 20, 20);
+}
+
+
+
+.winter-blue {
+    background-color:rgb(0, 153, 255);
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    color:whitesmoke;
+    font-size:17px;
+    border-color: rgb(0, 153, 255);
+
+}
+
+.winter-blue:hover {
+    background-color: rgb(3, 100, 165);
+}
+
+
+
+
+.sunshine-yellow{
+    background-color:rgb(255, 251, 0);
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    color:rgb(0, 0, 0);
+    font-size:17px;
+    border-color: rgb(255, 251, 0);
+
+}
+
+.sunshine-yellow:hover {
+    background-color: rgb(173, 171, 0);
+    color:white;
+}
+
+
+
+
+.grass-green{
+    background-color:rgb(34, 202, 0);
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    color:whitesmoke;
+    font-size:17px;
+    border-color: rgb(34, 202, 0);
+
+}
+
+.grass-green:hover {
+    background-color: rgb(14, 121, 0);
+}
+
+
+
+
+
+
+.simple-white {
+    background-color:rgb(255, 255, 255);
+    width:150px;
+    height:50px;
+    border-radius:7px;
+    color:rgb(0, 0, 0);
+    font-size:17px;
+    border-color: rgb(255, 255, 255);
+
+}
+
+.simple-white:hover {
+    background-color: rgb(207, 207, 207);
+}
+
+
+.image-round {
+    width:200px;
+    height:200px;
+    border-radius:200px;
+}
+
+.image-solid {
+    border-width:2px;
+    border-color:rgb(183, 253, 253);
+    border-style:solid;
+    width:200px;
+  height:200px;
+  border-radius:10px;
+}
+
+.image-border-black {
+    border-width:4px;
+    border-color:rgb(0, 0, 0);
+    border-style:solid;
+    width:200px;
+    height:200px;
+    border-radius:5%;
+}
+
+.image-border-double {
+    border-width:5px;
+    border-color:black;
+    border-style:double;
+    width:200px;
+    height:200px;
+    border-radius:2px;
+}
+
+.image-horizontal {
+    width:200px;
+    height:100px;
+    border-radius: 1%;;
+}
+
+.image-vertical {
+    width:100px;
+    height:200px;
+    border-radius:1px;
+}
+
+
+.image-large {
+    width:500px;
+    height:500px;
+}
+
+
+.division-right {
+    margin-left: 800px;
+}
+
+.division-left {
+    margin-right:800px;
+}
+
+.copyright_footer {
+    width:100%;
+    background-color:rgb(0, 132, 255);
+    height:50px;
+bottom:0;
+position:sticky;
+   
+}
